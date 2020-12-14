@@ -1,0 +1,15 @@
+{
+  "name": "ejlogicosjs",
+  "version": "1.0.0",
+  "description": "Ejercicios de logica con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Logica",
+    "JavaScript"
+  ],
+  "author": "ezequieledjuarez",
+  "license": "ISC"
+}
