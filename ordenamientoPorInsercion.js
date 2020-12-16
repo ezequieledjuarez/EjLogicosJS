@@ -10,7 +10,7 @@ function ordenamientoPorInsercion(array){
     for(let i = 1; i<tamanio; i++){
         j = i
         aux = array[i]
-        console.log(array)
+        //console.log(array)
         while(j >  0 && array[j-1] > aux){
             array[j] = array[j-1]
             j--
